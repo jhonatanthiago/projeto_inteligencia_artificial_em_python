@@ -1,4 +1,4 @@
-# Projeto de Análise de Score de Cliente em um Banco
+# Projeto de IA: Análise de Score de Cliente em um Banco
 
 Este é meu projeto de IA desenvolvido através do minicurso da HashTag Programação, focado em analisar dados bancários para prever o score de clientes. Através de técnicas de machine learning, exploramos uma base com 100.000 clientes, realizando etapas como importação, tratamento dos dados e treinamento de modelos. O objetivo é criar um modelo confiável que auxilie o banco na concessão de crédito de forma mais precisa e segura.
 
